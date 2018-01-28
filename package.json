@@ -1,7 +1,6 @@
 {
   "name": "backconnect",
   "version": "0.1.0",
-  "private": true,
   "author": "Christian Nikolov",
   "license": "MIT",
   "main": "index.js",
