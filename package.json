@@ -1,8 +1,9 @@
 {
-  "name": "proxies",
+  "name": "backconnect",
   "version": "0.1.0",
   "private": true,
-  "license": "UNLICENSED",
+  "author": "Christian Nikolov",
+  "license": "MIT",
   "main": "index.js",
   "dependencies": {
     "maxmind": "^2.4.0",
