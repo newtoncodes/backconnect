@@ -1,0 +1,11 @@
+{
+  "name": "proxies",
+  "version": "0.1.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "dependencies": {
+    "maxmind": "^2.4.0",
+    "request-promise": "^4.2.2"
+  }
+}
